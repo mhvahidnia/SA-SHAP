@@ -109,7 +109,7 @@ The implementation expects a **polygon GeoJSON** dataset containing:
 
 If you use this implementation in your research, please cite:
 
-> #### Vahidnia, M.H. (2026). *From local to global XAI: Do local regression contributions correspond to spatially adjusted SHAP (SA-SHAP)?*. Machine Learning with Applications.
+> #### Vahidnia, M.H. (2026). *From local to global XAI: Do local regression contributions correspond to spatially adjusted SHAP (SA-SHAP)?* Machine Learning with Applications. (Submitted)
 
 
 ---
