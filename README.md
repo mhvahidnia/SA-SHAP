@@ -128,6 +128,6 @@ Please cite the original authors if you use this dataset in your research.
 
 ## License
 
-Unless otherwise stated, this repository contains only the implementation of the SA-SHAP framework.
+BSD-3-Clause license
 
 The example dataset remains subject to the license and terms specified in the original repository.
